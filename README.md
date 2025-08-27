@@ -19,4 +19,4 @@ A React app to search books and manage favorites with favorites toggle.
 2. `npm start`
 
 ## Live Demo
-(Will add CodeSandbox link here after deployment)
+(https://codesandbox.io/p/github/BALAJI-BALU7742/Book_Finder/main?import=true)
